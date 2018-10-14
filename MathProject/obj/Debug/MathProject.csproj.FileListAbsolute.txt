@@ -1,0 +1,19 @@
+C:\Users\Hayden\AppData\Local\Temporary Projects\MathProject\bin\Debug\MathProject.exe.config
+C:\Users\Hayden\AppData\Local\Temporary Projects\MathProject\bin\Debug\MathProject.exe
+C:\Users\Hayden\AppData\Local\Temporary Projects\MathProject\bin\Debug\MathProject.pdb
+C:\Users\Hayden\AppData\Local\Temporary Projects\MathProject\obj\Debug\MathProject.csprojAssemblyReference.cache
+C:\Users\Hayden\AppData\Local\Temporary Projects\MathProject\obj\Debug\MathProject.Properties.Resources.resources
+C:\Users\Hayden\AppData\Local\Temporary Projects\MathProject\obj\Debug\MathProject.csproj.GenerateResource.cache
+C:\Users\Hayden\AppData\Local\Temporary Projects\MathProject\obj\Debug\MathProject.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\AppData\Local\Temporary Projects\MathProject\obj\Debug\MathProject.exe
+C:\Users\Hayden\AppData\Local\Temporary Projects\MathProject\obj\Debug\MathProject.pdb
+D:\dev\MathProject\MathProject\bin\Debug\MathProject.exe.config
+D:\dev\MathProject\MathProject\bin\Debug\MathProject.exe
+D:\dev\MathProject\MathProject\bin\Debug\MathProject.pdb
+D:\dev\MathProject\MathProject\obj\Debug\MathProject.csprojAssemblyReference.cache
+D:\dev\MathProject\MathProject\obj\Debug\MathProject.frmMathProject.resources
+D:\dev\MathProject\MathProject\obj\Debug\MathProject.Properties.Resources.resources
+D:\dev\MathProject\MathProject\obj\Debug\MathProject.csproj.GenerateResource.cache
+D:\dev\MathProject\MathProject\obj\Debug\MathProject.csproj.CoreCompileInputs.cache
+D:\dev\MathProject\MathProject\obj\Debug\MathProject.exe
+D:\dev\MathProject\MathProject\obj\Debug\MathProject.pdb
