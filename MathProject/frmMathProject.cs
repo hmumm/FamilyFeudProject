@@ -59,8 +59,8 @@ namespace MathProject
                 {
                     lblAlgorithm2Result.Text = "The second number must be the most popular response";
                 }
-                //if their sum is greater then 66 they have to be the most popular response
-                else if((firstNumber + secondNumber) > 66)
+                //if their sum is greater then 68 they have to be the most popular response
+                else if((firstNumber + secondNumber) > 68)
                 {
                     //if they are the same they both are
                     if(firstNumber == secondNumber)
